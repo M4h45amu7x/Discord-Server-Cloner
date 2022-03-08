@@ -1,5 +1,5 @@
 ## Description:
-This is the software to clone any discord server as your own
+This software can clone the Discord server such as icon, emojis, roles, categories, channels, permissions
 
 ## Features:
 <ul>
