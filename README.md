@@ -12,3 +12,4 @@ This is the software to clone any discord server as your own
 </ul>
 
 ## Showcase:
+<img src="https://i.imgur.com/fzpywQr.png">
