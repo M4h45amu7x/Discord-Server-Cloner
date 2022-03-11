@@ -11,5 +11,10 @@ This software can clone the Discord server such as icon, emojis, roles, categori
   <li>Clone all permissions</li>
 </ul>
 
+## Usages:
+```java
+java -jar "DiscordServerCloner-1.0-SNAPSHOT.jar"
+```
+
 ## Showcase:
 <img src="https://i.imgur.com/fzpywQr.png">
